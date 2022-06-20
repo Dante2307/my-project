@@ -1,1 +1,3 @@
 Третий файл проекта Git
+
+Also changed in the main branch
